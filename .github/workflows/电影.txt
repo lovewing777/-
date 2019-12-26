@@ -1,0 +1,55 @@
+星影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+星卫电影 高清,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv#P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb#http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
+卫视电影 高清,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8#http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
+美亚电影 高清,http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv#P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c#http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
+HBO-HD 高清,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv#P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+HBO,P2p://51.79.41.138:18912/5b140969000be13c17d2608218fe1e31.ts.ts
+HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
+HBO原創巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+HBO強檔巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX優質電影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213#http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
+FOX動作電影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
+FOX警匪電影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+fox电影台,http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
+cinemax,http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
+好莱坞电影台,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43#http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
+華納電視HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+衛視西片台HD,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+AXN HD,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8
+MTVHIST高清,http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+索尼动作高清,http://178.124.183.14/hls/VPRSUR2WN2/bw2500000/playlist.m3u8
+索尼电视高清,http://46.32.68.167/s/live/258/86.169.51.136/0/0.m3u8
+龙华洋片 高清,http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
+龙华电影 高清,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv#P2p://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
+龙华经典,http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
+纬来电影 高清,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv#P2p://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
+靖天电影 高清,http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
+靖天映画,http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
+东森电影 高清,http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv#P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
+龙祥时代 高清,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
+卫视洋片台,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
+光影欧洲,http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
+國興衛視,P2p://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
+惊悚电影台HD,http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDE4IDEyOjMzOjMxIFBNJmhhc2hfdmFsdWU9OUhNai9jcjN2c0lCSjh6QmI3b3Irdz09JnZhbGlkbWludXRlcz0yJmlkPTF8QXJyYXl8aG9tZXR2MTIzfDE1MTc0MDIwMTF8MTE5LjEzNS4wLjM3
+卫视卡式台HD,http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDE4IDEyOjMzOjMxIFBNJmhhc2hfdmFsdWU9OUhNai9jcjN2c0lCSjh6QmI3b3Irdz09JnZhbGlkbWludXRlcz0yJmlkPTF8QXJyYXl8aG9tZXR2MTIzfDE1MTc0MDIwMTF8MTE5LjEzNS4wLjM3#P2p://sdgdklwos.finetv.tv:9906/5b326356000e27761d60fc701ff36973#p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
+高清澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+龍祥時代,P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
+电影台,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+影迷电影 高清,http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
+CatchPlay电影 高清,http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv#P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
+花花电影台HD,http://46.29.165.95:8081/stream/Runight/chunks.m3u8
+KIX 卫视HD,http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDE4IDEyOjMzOjMxIFBNJmhhc2hfdmFsdWU9OUhNai9jcjN2c0lCSjh6QmI3b3Irdz09JnZhbGlkbWludXRlcz0yJmlkPTF8QXJyYXl8aG9tZXR2MTIzfDE1MTc0MDIwMTF8MTE5LjEzNS4wLjM3
+索尼娱乐HD,http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.flv
+SONY,P2p://51.79.41.138:18912/5d65048e00009342de8e2bf077b779bc.ts.ts
+SURIA,P2p://51.79.41.138:18912/5b20e3ae000daac34a06fe87001d1fef.ts.ts
+DIVA HD,http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
+amc,http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.flv
+CINEMAX HD,http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
+Cinema WHD,http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
+CNEX,http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.flv
+CRIME,http://cloud-play.hhalloy.com/live/3b19a19852e7bdc6b6f238108c94cb82.flv
+卫视国际HD,https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8

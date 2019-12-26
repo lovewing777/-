@@ -1,0 +1,45 @@
+無線新聞,http://27.109.184.17:7522/upnp/channelstream/008
+有线新闻,P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#p2p://120.79.144.205:9906/5dc08f2d000d42be01b83cac082c0951.ts
+TVB無線新聞台,http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162#http://pili-publish.miaobolive.com/live/ews66880.m3u8#http://1902750989.cloudvdn.com/a.m3u8?domain=pili-publish.miaobolive.com&player=5h4AAOVWRk06gtwV&secondToken=secondToken%3A3DJyvCd-pPRGDMwPqIvX1rJKj7s&streamid=miaobolive%3Amiaobolive%2Fews66880&v3=1#http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#http://hls2.live.126.net/live/c522a1ab7d31bf9a34a117a2a2c98fa6bd4aa/playlist.m3u8
+亚视ATV台,https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
+TVB無線新聞台,http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162#http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#P2p://185.169.196.146:9906/5ad32bdc000b780449ee52022e841cf7.ts#p2p://51.79.41.138:18912/5b140953000cd4a817d20ad057051e23.ts.ts#p2p://51.79.41.138:18912/5b1409fc000a355e17d49e4d52ad164f.ts#mitv://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://144.217.121.122:18912/5b1409fc000a355e17d49e4d52ad164f.ts#vjms://23.237.33.155:8500:3502/live/cid=366#msc://CIN5
+TVB 翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://144.217.121.122:18912/5b1409fc00088a7f17d49ddf36aa5041.ts#http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#P2p://51.79.41.138:18912/5b1409fc00088a7f17d49ddf36aa5041.ts.ts#PP2p://51.79.41.138:18912/5b1409fc00088a7f17d49ddf36aa5041.ts.ts#P2p://51.79.41.138:18912/5d1220350000ba271e46e99419865a81.ts.ts#2p://51.79.41.138:18912/5d1220350000ba271e46e99419865a81.ts.ts#p2p://170.178.164.253:6111/5b448a91000047c10002934f41cb6082.ts#http://59.148.103.41:8000/bysid/1
+HKC电影一台,P2p://3114910866:9906/5cb05c52000a69c517a988073ced7a47.ts#p2p://120.79.144.205:9906/5dc08f2d000c62c601b83c73e7cdd4b0.ts#P2p://185.212.201.60:6005/5b448e9c0004a9c500125f66a6d2178d#P2p://144.217.121.122:18912/5b140a160002576417d501d91af1598e.ts#P2p://sdgdklwos.finetv.tv:9906/5a4726e4000667ca26f6a98d6a9d25a7#P2p://144.217.121.122:18912/5b140a160002576417d501d91af1598e.ts#tvbus://12g14sQq1WzA3oZfBAmpDBg8Q72tpkWVPtZByqM1455Nv5oiTEb#p10p://144.217.121.122:18912/5b140a160002576417d501d91af1598e.ts#P2p://51.79.41.138:18912/5b140a160002576417d501d91af1598e.ts.ts
+有线电影台,http://prdsecurelive.ainemo.com/live/yxdy2219.m3u8
+华丽频道高清,p2p://190.2.146.92:18912/5b3c4fa10001acfa627f067273f636b0.ts#p2p://120.79.144.205:9906/5dc4e32300010cc212a0327c9fcab557.ts
+全佳,p2p://120.79.144.205:9906/5dc4e322000da68812a031ce725ce7c2.ts#p2p://sdgdklwos.finetv.tv:9906/5b2c7b9d000cafb7064ee62073b5429d.ts 
+双星,p2p://120.79.144.205:9906/5dc4e322000cc35412a03194480a0a2f.ts#p2p://sdgdklwos.finetv.tv:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts 
+喜悦,p2p://sdgdklwos.finetv.tv:9906/5b2c88690001d3520680e0317d774511.ts 
+欢喜,p2p://sdgdklwos.finetv.tv:9906/5b2c86ff000b8df6067b5ca240b93635.ts
+AEC,p2p://120.79.144.205:9906/5dc08ee8000888fa01b72deec5ea30d1.ts#p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
+AOD,p2p://120.79.144.205:9906/5dc08ee80007b29501b72db8ec66d60d.ts 
+小太阳,p2p://sdgdklwos.finetv.tv:9906/5b2c879d000424bd067dc3ee45d96446.ts
+RIA,p2p://120.79.144.205:9906/5dc4e32300075b6912a0341923e8b345.ts
+TVB星河台,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://51.79.41.138:18912/5d65048c0003e9aede8e24fb5b582edf.ts.ts
+TVB-J2 高清,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv#P2p://51.79.41.138:18912/5d122036000a06611e46efde49ac2c0a.ts.ts
+TVB明珠 高清,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv#
+TVB 功夫,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b#http://1861365806.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=q4YAAO01KIBLos8V&secondToken=secondToken%3AsODQOcrWqiu2aiPajlm9kB6U5Ws&streamid=dsdtv%3Adsdtv%2Fcfd2b3912b756d6d4965f018fd7d3717&v3=1#http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.flv
+TVB韩剧台,msc://CKDrama5
+TVB娱乐新闻,msc://CEN5
+TVB無線財經台,P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
+ViuTV[1920*1080],P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef#http://59.148.103.41:8000/bysid/99
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+RTHK31HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
+RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+鳳凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3#http://live.centerch.com/fhzw.m3u8#http://112.5.223.78/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8?icpid=88888888&from=1&ocs=2_112.5.223.78_80&hms_devid=523#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.120.139:8080/live/fhchinese/.m3u8?icpid=88888929&from=79102&hms_devid=433,489&online=1572270957&vqe=3#http://125.210.152.18:9090/live/FHZW_1200.m3u8
+鳳凰資訊HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852#rtmp://58.200.131.2:1935/livetv/fhzx#http://125.210.152.18:9090/live/FHZX_1200.m3u8
+鳳凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
+凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+天映經典台,P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
+天映頻道HD,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7#p2p://170.178.164.253:6111/5b448d04000674ba000c261b59da1856.ts
+澳门体育高清,http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
+澳门综艺高清,http://61.244.22.4/ch6/hd_ch6.live/index.m3u8
+香港有线电视603,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv#P2p://51.79.41.138:18912/5cb870e80007bd852f6092344e963e52.ts.ts
+HKC 娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
+HKC惊悚频道,P2p://185.212.201.60:6005/5b448f090007e5c400140a0277116910.ts
+HKS卫视 高清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+台灣藝術[1280*720],http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+NOW TV,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=202&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+
